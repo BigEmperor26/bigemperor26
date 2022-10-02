@@ -2,4 +2,4 @@
 
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
-![alt text](./rimuru.jpeguru)
+![alt text]([https://github.com/BigEmperor26/bigemperor26/blob/main/rimuru.jpeg])
