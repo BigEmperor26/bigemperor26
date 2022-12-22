@@ -27,11 +27,12 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
 -->
 <p align='center'>
-![Snake animation](https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://github.com/BigEmperor26/">
+  <a>
   <img align="center" src="https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg" />
 </a>
 </p>
 <p align='center'>
-![alt text](https://github.com/BigEmperor26/bigemperor26/blob/main/rimuru.jpeg)
+<a>
+  <img align="center" src="https://github.com/BigEmperor26/bigemperor26/blob/main/rimuru.jpeg" />
+</a>
 </p>
