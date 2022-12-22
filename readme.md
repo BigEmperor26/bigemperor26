@@ -1,4 +1,16 @@
-# Hi! I'm Michele Yin and this is my GitHub profile.✨
+<h1 align="center">👋 Hi, I’m Michele Yin</h1>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/michele-yin-42a36a229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/BigEmperor26/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mickyin3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> 
+</p>
 
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
