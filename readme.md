@@ -14,17 +14,21 @@
 
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
+<p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigEmperor26" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
 </a>
-
+</p>
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigEmperor26)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
 -->
+<p align='center'>
 ![Snake animation](https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg)
-  
+</p>
+<p align='center'>
 ![alt text](https://github.com/BigEmperor26/bigemperor26/blob/main/rimuru.jpeg)
+</p>
