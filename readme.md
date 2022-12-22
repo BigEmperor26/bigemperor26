@@ -15,10 +15,10 @@
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
 <p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigEmperor26" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
 </a>
 </p>
