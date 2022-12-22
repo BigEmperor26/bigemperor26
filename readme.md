@@ -14,8 +14,8 @@
 
 I'm currently a Master's student of Artificial Intelligence Systems at the University of Trento 🤖
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BigEmperor26&repo=github-readme-stats)](https://github.com/BigEmperor26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
 
 ![Snake animation](https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg)
 
