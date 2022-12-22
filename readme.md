@@ -28,6 +28,9 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 -->
 <p align='center'>
 ![Snake animation](https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/BigEmperor26/">
+  <img align="center" src="https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg" />
+</a>
 </p>
 <p align='center'>
 ![alt text](https://github.com/BigEmperor26/bigemperor26/blob/main/rimuru.jpeg)
