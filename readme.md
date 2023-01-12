@@ -19,7 +19,7 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
 </a>
 </p>
 <!---
