@@ -16,15 +16,15 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 
 <p align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-ricktstaa.vercel.app/api?username=BigEmperor26" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-ricktstaa.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26&layout=compact" />
 </a>
 </p>
 <!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigEmperor26)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
 -->
 <p align='center'>
   <a>
