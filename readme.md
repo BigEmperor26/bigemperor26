@@ -16,10 +16,10 @@ I'm currently a Master's student of Artificial Intelligence Systems at the Unive
 
 <p align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigEmperor26" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-ricktstaa.vercel.app/api?username=BigEmperor26" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-ricktstaa.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
 </a>
 </p>
 <!---
