@@ -23,6 +23,7 @@ Some relevant projects I did:
 - [Domain Adaptation CV](https://github.com/filippodaniotti/DL-domain-adaptation)
 - [Behaviour Trees OpenAI Gym](https://github.com/fedeizzo/comparison-NEAT-BT-on-OpenAI-Gyms)
 - [Huffman CODEC](https://github.com/BigEmperor26/HuffmanCODEC)
+- [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/) 
 
 <p align='center'>
 <a href="#">
