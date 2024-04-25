@@ -39,8 +39,8 @@ Some relevant projects I did:
 </a>
 </p>
 <!---
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigEmperor26)](https://github.com/bigemperor26/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/bigemperor26/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-smoky-nine-37.vercel.app/api?username=BigEmperor26)](https://github.com/BigEmperor26/github-readme-stats)
+[![Top Langs](https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
 -->
 <p align='center'>
   <a>
