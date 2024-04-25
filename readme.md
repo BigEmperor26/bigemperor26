@@ -32,16 +32,16 @@ Some relevant projects I did:
 
 <p align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-smoky-nine-37.vercel.app/api?username=BigEmperor26" />
+  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api?username=BigEmperor26&theme=cobalt" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact" />
+  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact&theme=cobalt" />
 </a>
 </p>
-<!---
+<!-- -
 [![Anurag's GitHub stats](https://github-readme-stats-smoky-nine-37.vercel.app/api?username=BigEmperor26)](https://github.com/BigEmperor26/github-readme-stats)
-[![Top Langs](https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats) -->
+
 <p align='center'>
   <a>
   <img align="center" src="https://github.com/BigEmperor26/bigemperor26/blob/output/github-contribution-grid-snake.svg" />
