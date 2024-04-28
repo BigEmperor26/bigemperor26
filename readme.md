@@ -32,11 +32,11 @@ Some relevant projects I did:
 
 <p align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api?username=BigEmperor26&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api?username=BigEmperor26&theme=cobalt&show=prs_merged,prs_merged_percentage" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact&theme=cobalt" />
-</a>
+<!-- <a href="#">
+  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact&theme=cobalt&hide=jupyter%20notebook" />
+</a> -->
 </p>
 <!-- -
 [![Anurag's GitHub stats](https://github-readme-stats-smoky-nine-37.vercel.app/api?username=BigEmperor26)](https://github.com/BigEmperor26/github-readme-stats)
