@@ -19,8 +19,8 @@
 
 I'm currently a Master's Graduate of Artificial Intelligence Systems at the University of Trento 🤖
 
-
 Some relevant projects I did:
+
 - [Master's Thesis](https://github.com/BigEmperor26/Michele-Yin-Thesis)
 - [Let's give a Voice to Conversational Agents in VR](https://github.com/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR) | [InterSpeech paper](https://www.isca-speech.org/archive/interspeech_2023/yin23b_interspeech.html)
 - [Domain Adapatation TACV](https://github.com/filippodaniotti/TACV-DA-project)
@@ -28,7 +28,8 @@ Some relevant projects I did:
 - [Domain Adaptation CV](https://github.com/filippodaniotti/DL-domain-adaptation)
 - [Behaviour Trees OpenAI Gym](https://github.com/fedeizzo/comparison-NEAT-BT-on-OpenAI-Gyms)
 - [Huffman CODEC](https://github.com/BigEmperor26/HuffmanCODEC)
-- [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/) 
+- [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/)
+- [Sudoku - Sudoku game with error checking](https://sudoku-lake-two.vercel.app)
 
 <p align='center'>
 <a href="#">
