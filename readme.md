@@ -29,7 +29,10 @@ Some relevant projects I did:
 - [Behaviour Trees OpenAI Gym](https://github.com/fedeizzo/comparison-NEAT-BT-on-OpenAI-Gyms)
 - [Huffman CODEC](https://github.com/BigEmperor26/HuffmanCODEC)
 - [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/)
-- [Sudoku - Sudoku game with error checking](https://sudoku-lake-two.vercel.app)
+- Sudoku - Sudoku game with error checking
+  - [Website](https://sudoku-lake-two.vercel.app)
+  - [App store](https://apps.apple.com/it/app/the-ultimate-sudoku-app/id6743371040)
+  - [Privacy Policy](https://sudoku-app-landing-page.vercel.app)
 
 <p align='center'>
 <a href="#">
