@@ -7,9 +7,13 @@
   <a href="https://github.com/BigEmperor26/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   </a>&nbsp;&nbsp;
+
   <a href="mailto:mickyin3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a> 
+  <!-- <a href="mailto:mickyin3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> &nbsp;&nbsp; -->
    <!-- </a>&nbsp;&nbsp;
     <a href="https://BigEmperor26.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img> -->
@@ -30,7 +34,6 @@ Some relevant projects I did:
 - [Huffman CODEC](https://github.com/BigEmperor26/HuffmanCODEC)
 - [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/)
 - Sudoku - Sudoku game with error checking
-  - [Website](https://sudoku-lake-two.vercel.app)
   - [App store](https://apps.apple.com/it/app/the-ultimate-sudoku-app/id6743371040)
   - [Privacy Policy](https://sudoku-app-landing-page.vercel.app)
 
