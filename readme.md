@@ -36,6 +36,9 @@ Some relevant projects I did:
 - Sudoku - Sudoku game with error checking
   - [App store](https://apps.apple.com/it/app/the-ultimate-sudoku-app/id6743371040)
   - [Privacy Policy](https://sudoku-app-landing-page.vercel.app)
+- Fading Tic Tic Toe - Tic Tac Toe with fading cells
+  - [App store](https://apps.apple.com/it/app/fading-tris/id6744886617)
+  - [Privacy Policy](https://fading-tris-app-landing-page.vercel.app)
 
 <p align='center'>
 <a href="#">
