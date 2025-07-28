@@ -39,6 +39,9 @@ Some relevant projects I did:
 - Fading Tic Tic Toe - Tic Tac Toe with fading cells
   - [App store](https://apps.apple.com/it/app/fading-tris/id6744886617)
   - [Privacy Policy](https://fading-tris-app-landing-page.vercel.app)
+- Palettica - Palette generator app
+  - [App store](https://apps.apple.com/it/app/palettica/id6748886851)
+  - [Privacy Policy](https://palettica-landing-page.vercel.app)
 
 <p align='center'>
 <a href="#">
